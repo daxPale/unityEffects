@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Project-Earth/Scenes/Butterfly/ButterflySimType1.unity
+    guid: dbf269ac9b840374786001eb9e0a129a
+  - enabled: 0
+    path: Assets/Scenes/ForceField/main.unity
+    guid: 69971d077c9acf04e924a994d51b18c3
+  - enabled: 0
+    path: Assets/Project-Earth/Scenes/Butterfly/ButterflySLAM.unity
+    guid: f62336c8bfab6d44faa084b3e3a84294
+  - enabled: 0
+    path: Assets/Project-Earth/Scenes/MusicPlayer/Music Player Scene.unity
+    guid: 441b803b583b80a4ea3383ad98415375
+  m_configObjects: {}

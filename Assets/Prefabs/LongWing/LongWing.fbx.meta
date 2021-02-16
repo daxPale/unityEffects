@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: da13beaee5fb12840bd42be40da7de50
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Antenna1.L
+    100002: Antenna1.R
+    100004: Antenna10.L
+    100006: Antenna10.R
+    100008: Antenna11.L
+    100010: Antenna11.R
+    100012: Antenna2.L
+    100014: Antenna2.R
+    100016: Antenna3.L
+    100018: Antenna3.R
+    100020: Antenna4.L
+    100022: Antenna4.R
+    100024: Antenna5.L
+    100026: Antenna5.R
+    100028: Antenna6.L
+    100030: Antenna6.R
+    100032: Antenna7.L
+    100034: Antenna7.R
+    100036: Antenna8.L
+    100038: Antenna8.R
+    100040: Antenna9.L
+    100042: Antenna9.R
+    100044: Armature.001
+    100046: Body
+    100048: ButterFly2
+    100050: Leg1_1.L
+    100052: Leg1_1.R
+    100054: Leg1_2.L
+    100056: Leg1_2.R
+    100058: Leg2_1.L
+    100060: Leg2_1.R
+    100062: Leg2_2.L
+    100064: Leg2_2.R
+    100066: Leg3_1.L
+    100068: Leg3_1.R
+    100070: Leg3_2.L
+    100072: Leg3_2.R
+    100074: //RootNode
+    100076: MainEmpty
+    100078: Mover
+    100080: Wing.L
+    100082: Wing.R
+    400000: Antenna1.L
+    400002: Antenna1.R
+    400004: Antenna10.L
+    400006: Antenna10.R
+    400008: Antenna11.L
+    400010: Antenna11.R
+    400012: Antenna2.L
+    400014: Antenna2.R
+    400016: Antenna3.L
+    400018: Antenna3.R
+    400020: Antenna4.L
+    400022: Antenna4.R
+    400024: Antenna5.L
+    400026: Antenna5.R
+    400028: Antenna6.L
+    400030: Antenna6.R
+    400032: Antenna7.L
+    400034: Antenna7.R
+    400036: Antenna8.L
+    400038: Antenna8.R
+    400040: Antenna9.L
+    400042: Antenna9.R
+    400044: Armature.001
+    400046: Body
+    400048: ButterFly2
+    400050: Leg1_1.L
+    400052: Leg1_1.R
+    400054: Leg1_2.L
+    400056: Leg1_2.R
+    400058: Leg2_1.L
+    400060: Leg2_1.R
+    400062: Leg2_2.L
+    400064: Leg2_2.R
+    400066: Leg3_1.L
+    400068: Leg3_1.R
+    400070: Leg3_2.L
+    400072: Leg3_2.R
+    400074: //RootNode
+    400076: MainEmpty
+    400078: Mover
+    400080: Wing.L
+    400082: Wing.R
+    2100000: Wings&Body2.001
+    4300000: ButterFly2
+    7400000: Scene
+    9500000: //RootNode
+    13700000: ButterFly2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wings&Body2.001
+    second: {fileID: 2100000, guid: 84baa58218a09cb4c9405bb522e5c357, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
